@@ -1,0 +1,6 @@
+Your phrase is: Make it happen.
+4 7 12 19 28 39
+7 830 4
+663 3
+aaaaaa
+6 4 3 2 5 1
