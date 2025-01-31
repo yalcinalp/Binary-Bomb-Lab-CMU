@@ -1,4 +1,4 @@
-# Binary-Bomb-Lab-CMU
+# Binary Bomb Lab - Carnegie Mellon Uni
 
 Focusing on reverse engineering skills with machine-level programs, assembly and gdb debugger. 
 
